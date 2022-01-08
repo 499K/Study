@@ -1,2 +1,2 @@
-DevOps v1
+CSTW stack 1
 1. Build Kali image
